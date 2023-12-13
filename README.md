@@ -1,1 +1,2 @@
-# terraform-ec2
+# TERRAFORM PRJECT TO CREATE AN INFRASTRUCTUE
+# 1-Creating a VPC with 4 subnets.
